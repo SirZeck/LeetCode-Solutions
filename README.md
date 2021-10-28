@@ -6,3 +6,4 @@
 | [75-Sort-Colors](https://leetcode.com/problems/sort-colors/)                                        | [Solution](https://github.com/SirZeck/LeetCode-Solutions/blob/main/cpp/75-Sort-Colors.cpp)                     |
 | [15-3Sum](https://leetcode.com/problems/3sum/)                                                      | [Solution](https://github.com/SirZeck/LeetCode-Solutions/blob/main/cpp/15-3Sum.cpp)                            |
 | [300-longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](https://github.com/SirZeck/LeetCode-Solutions/blob/main/cpp/300-Longest-Increasing-Subsequence.cpp) |
+| [1314-Matrix-Block-Sum](https://leetcode.com/problems/matrix-block-sum/)                            | [Solution](https://github.com/SirZeck/LeetCode-Solutions/blob/main/cpp/1314-Matrix-Block-Sum.cpp)              |
