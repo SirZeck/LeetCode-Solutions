@@ -11,7 +11,7 @@
 | [994-Rotting-Oranges](https://leetcode.com/problems/rotting-oranges/)                               | [Solution](https://github.com/SirZeck/LeetCode-Solutions/blob/main/cpp/994-Rotting-Oranges.cpp)                |
 | [1143-Longest-Common-Subsequence](https://leetcode.com/problems/longest-common-subsequence/)        | [Solution](https://github.com/SirZeck/LeetCode-Solutions/blob/main/cpp/1143-Longest-Common-Subsequence.cpp)    |
 | [72-Edit-Distance](https://leetcode.com/problems/edit-distance/)                                    | [Solution](https://github.com/SirZeck/LeetCode-Solutions/blob/main/cpp/72-Edit-Distance.cpp)                   |
-| []()                                                                                                | []()                                                                                                           |
+| [1044-Longest-Duplicate-Substring](https://leetcode.com/problems/longest-duplicate-substring/)      | [Solution](https://github.com/SirZeck/LeetCode-Solutions/blob/main/cpp/1044-Longest-Duplicate-Substring.cpp)   |
 | []()                                                                                                | []()                                                                                                           |
 | []()                                                                                                | []()                                                                                                           |
 | []()                                                                                                | []()                                                                                                           |
